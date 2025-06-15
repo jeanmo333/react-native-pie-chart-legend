@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "bundler",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "resolveJsonModule": true,
+      "noEmit": true
+    },
+    "extends": "expo/tsconfig.base"
+  }

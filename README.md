@@ -15,6 +15,12 @@ yarn add react-native-pie-chart-legend react-native-svg
 
 ---
 
+## 🎥 Demo
+
+![Demo](./assets/demo.png)
+
+---
+
 ## 💡 Usage
 
 ```tsx

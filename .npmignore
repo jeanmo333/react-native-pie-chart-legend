@@ -1,0 +1,7 @@
+src/
+example/
+tsconfig.json
+rollup.config.js
+.gitignore
+npm-debug.log
+test/

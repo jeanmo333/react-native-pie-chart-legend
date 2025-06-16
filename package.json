@@ -1,6 +1,6 @@
 {
   "name": "react-native-pie-chart-legend",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "description": "A flexible Pie Chart component with legend for React Native apps.",
   "main": "dist/index.js",

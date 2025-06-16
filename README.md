@@ -29,10 +29,12 @@ import { View } from "react-native";
 import { PieChartLegend } from "react-native-pie-chart-legend";
 
 const data = [
-  { label: "Producto A", value: 40 },
-  { label: "Producto B", value: 30 },
-  { label: "Producto C", value: 20 },
-  { label: "Producto D", value: 50 },
+  { label: "Product A", value: 40 },
+  { label: "Product B", value: 30 },
+  { label: "Product C", value: 20 },
+  { label: "Product D", value: 50 },
+  { label: "Product E", value: 40 },
+  { label: "Product F", value: 50 },
 ];
 
 export default function App() {
